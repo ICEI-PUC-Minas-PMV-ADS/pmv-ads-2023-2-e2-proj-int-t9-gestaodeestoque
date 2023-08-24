@@ -25,9 +25,9 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+No panorama empresarial em constante evolução, a gestão eficaz de estoque se destaca como um pilar fundamental para o sucesso e a rentabilidade das empresas. A escolha de empreender um projeto de aplicação de controle de estoque é impulsionada pela necessidade imperativa de enfrentar os desafios inerentes ao gerenciamento de recursos, minimizar perdas e maximizar a eficiência operacional.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+De acordo com dados estatísticos recentes, cerca de 43% das empresas sofrem com excesso de estoque, enquanto 38% enfrentam problemas de falta de produtos, resultando em perdas financeiras significativas¹. Além disso, estima-se que empresas gastem, em média, de 20% a 35% de seus custos operacionais totais em estoque². Esses números evidenciam a urgência de um controle efetivo do estoque para mitigar riscos financeiros e melhorar os resultados.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
