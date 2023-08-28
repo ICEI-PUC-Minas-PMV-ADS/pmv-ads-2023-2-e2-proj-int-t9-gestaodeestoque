@@ -62,7 +62,7 @@ Reconhecendo a importância do gerenciamento eficaz de estoque, a necessidade de
 &nbsp;&nbsp; Prevenir desvios de estoque.
  
 
-#### Como objetivos específicos, pode se ressaltar:   
+
 
 
 ### Justificativa   
