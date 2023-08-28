@@ -70,6 +70,7 @@ Reconhecendo a importância do gerenciamento eficaz de estoque, a necessidade de
 
 ### Público-alvo 
 
+Grande parte dos usuários são pequenas empresas, estabelecimentos e pessoas com  uma faixa etária de 18 a 60 anos, que necessitam de uma economia de tempo e procuram uma facilidade em gerir o que possuem em estoque. 
 
 
 
