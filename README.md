@@ -17,6 +17,7 @@
 * Marlon Albert Rodrigues Dias
 * Caio Santos Celestino da Costa
 * Peterson Alves Gervazio
+* Wilian Pereira de Aquino Junior.
 
 ## Orientador
 
