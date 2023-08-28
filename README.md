@@ -66,6 +66,10 @@ Reconhecendo a importância do gerenciamento eficaz de estoque, a necessidade de
 
 
 ### Justificativa   
+
+No panorama empresarial em constante evolução, a gestão eficaz de estoque se destaca como um pilar fundamental para o sucesso e a rentabilidade das empresas. A escolha de empreender um projeto de aplicação de controle de estoque é impulsionada pela necessidade imperativa de enfrentar os desafios inerentes ao gerenciamento de recursos, minimizar perdas e maximizar a eficiência operacional.
+
+De acordo com dados estatísticos recentes, cerca de 43% das empresas sofrem com excesso de estoque, enquanto 38% enfrentam problemas de falta de produtos, resultando em perdas financeiras significativas¹. Além disso, estima-se que empresas gastem, em média, de 20% a 35% de seus custos operacionais totais em estoque². Esses números evidenciam a urgência de um controle efetivo do estoque para mitigar riscos financeiros e melhorar os resultados.
  
 
 ### Público-alvo 
