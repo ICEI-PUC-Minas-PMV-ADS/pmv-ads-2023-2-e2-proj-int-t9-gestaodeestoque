@@ -91,77 +91,21 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 
 ### Personas
-<h3><ins> Lucas Almeida (Estoquista)</ins></h3>
+
 
 <div>
-<img align="left" src="https://agazetaempregos.com.br/images/Estoquista_5_G.jpg"  width="300px" />
-<strong>Lucas Almeida</strong> era um estoquista dedicado e trabalhador em uma loja. Ele adorava o ambiente agitado da loja e a sensação de fazer parte de algo relacionado ao seu amor pelo trabalho. No entanto, havia um aspecto do trabalho que constantemente o deixava frustrado: o controle de estoque.
-
-Todas as manhãs, Lucas enfrentava pilhas de caixas e produtos novos que chegavam à loja. Ele sabia que era crucial manter o estoque organizado para atender às demandas dos clientes, mas a tarefa de acompanhar cada item e sua quantidade era um desafio monumental.
-
-Lucas tentava manter registros em papel e atualizar planilhas, mas o ritmo frenético da loja frequentemente o impedia de registrar todas as informações corretamente. Itens eram vendidos, novos produtos eram recebidos, e ele lutava para manter o equilíbrio. Isso resultava em discrepâncias entre o estoque real e o que estava registrado, causando frustrações para Lucas e para a equipe de vendas, que confiava nos números precisos para atender aos clientes.
+<img align="left" src="/IMGS/persona1.png" width="480px"  />
 </div>
 
 </br>
 
-
-<h3><ins> Ednaldo Pereira (Vendedor)</ins></h3>
-
-<img align="left" src=https://i.pinimg.com/564x/00/6f/bb/006fbbef468cc76c5d2246189a111dc1.jpg width="300px" />
-
-**Ednaldo Pereira** é um vendedor apaixonado e com uma habilidades de comunicação excepcional. Nasceu em São Paulo, Brasil, em 1985. Desde jovem, sempre demonstrou um interesse notável em interações humanas e empreendedorismo. Após concluir seus estudos em Administração de Empresas Ednaldo ingressou na área de vendas como representante de vendas em uma empresa de tecnologia. Ao longo dos anos, ele desenvolveu um profundo conhecimento sobre os produtos que vendia e construiu relacionamentos duradouros com seus clientes. Com uma abordagem voltada para soluções, ele é conhecido por ouvir atentamente as necessidades dos clientes e oferecer as melhores opções para suas demandas. Sua empatia e habilidade de adaptação lhe permitem construir conexões genuínas, o que resulta em uma base leal de clientes que o procuram repetidamente. Através de sua dedicação à excelência em vendas e seu compromisso com a satisfação do cliente, Ednaldo Pereira é uma inspiração para outros profissionais de vendas e uma prova viva de que o sucesso é alcançado através do comprometimento e paixão pelo que se faz.
+<img align="left" src= "/IMGS/persona2.png" width="480px"/>
 
 
 </br>
-
-
-<div>
-<h3><ins> Cláudia Santos (Gerente)</ins></h3>
-
-<img align="left" src="https://img.freepik.com/fotos-gratis/retrato-do-proprietario-da-empresa-asiatica-usando-tablet-digital-verificando-a-quantidade-de-estoque-de-produtos-em-estoque-na-prateleira-no-armazem-de-distribuicao-servico-de-transporte-e-entrega-de-negocios-logisticos_609648-1999.jpg?w=740&t=st=1692800960~exp=1692801560~hmac=0ffb0e6afb3d256cf7f39cfc44fe681099dfd0431f285b9b76686fb9c3e44f1f" width="300px" />
-
-**Cláudia Santos**, de 32 anos, sempre foi conhecida por sua dedicação incansável como gerente de controle de estoque em uma próspera empresa de distribuição. Sua rotina era repleta de planilhas, listas intermináveis e telefonemas frenéticos para garantir que os níveis de estoque estivessem sempre sob controle. A necessidade de otimizar seu tempo e garantir precisão a impulsionava constantemente. Com seu desejo de melhorar o departamento e sua curiosidade despertada, Cláudia apresentou a ideia do aplicativo para a equipe e a liderança da empresa. Ela destacou os benefícios potenciais em termos de eficiência operacional, redução de erros e maior visibilidade do estoque em toda a cadeia de suprimentos.
-
+</br>
+<div align="center"  >
 </div>
-
-</br>
-
-<div align="center">
-<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
-
-# Histórias de Usuários.
-
-<tr>
-<td>Eu como …</br> 
-	[PERSONA] 
-</td>
-<td>… quero/desejo … </br>
-	[O QUE] 
-</td>
-<td>… para .... </br>
-	[POR QUE] 
-</td>
-</tr>
-	
-<tr>
-<td> Gerente </td>
-<td> Controle Total </td>
-<td> Conferir a confiabilidade do meu estoque </td>
-</tr>
-	
-<tr>
-<td> Estoquista </td>
-<td> Controlar entrada e saida de produtos </td>
-<td> Para facilitar o meu controle de estoque </td>
-</tr>
-	
-<tr>
-<td> Vendedor </td>
-<td> Consultar a disponibilidade de produtos </td>
-<td> Para que eu possa efetuar vendas com mais facilidades </td>
-</tr>
-
-</table>
 
 ### Requisitos e Restrições.
 #### Requisitos Funcionais 
