@@ -169,6 +169,21 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 	<td> O Menu deve ser visível a partir de qualquer tela do sistema</td>
 	<td>Alta</td>
 </tr>
+<tr>
+	<td>RF-08 &nbsp; </td>
+	<td>O Sistema deve possuir um Cadastro de usuário</td>
+	<td>Alta</td>
+</tr>
+<tr>
+	<td>RF-09 &nbsp; </td>
+	<td>O Sistema deve ter uma tela de login </td>
+	<td>Alta</td>
+</tr>
+<tr>
+	<td>RF-10 &nbsp; </td>
+	<td> O sistema deve possuir um sistema de arredondamento de valores para até duas casas decimais.</td>
+	<td>Média</td>
+</tr>
 
 </table>
 
@@ -200,6 +215,16 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 	<td>RNF-04 &nbsp; </td>
 	<td>O sistema deverá registrar informações de fácil acesso</td>
 	<td>Média</td>
+</tr>
+<tr>
+	<td>RNF-05 &nbsp; </td>
+	<td>O Sistema não deve ser acessado sem utilização de um usuário</td>
+	<td>Alta</td>
+</tr>
+<tr>
+	<td>RNF-06 &nbsp; </td>
+	<td>O sistema deve dar feedbacks a preenchimentos de registros de formas equivocadas.</td>
+	<td>Baixa</td>
 </tr>
 
 </table>
