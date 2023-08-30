@@ -61,8 +61,12 @@ Reconhecendo a importância do gerenciamento eficaz de estoque, a necessidade de
 
 &nbsp;&nbsp; Prevenir desvios de estoque.
  
+Como objetivos específicos, pode se ressaltar:
+Permitir que o estoquista controle entrada e sainda de produtos.
 
+Permitir que o vendedor consulte a diponibilidade e infome a saida de produtos.
 
+Permitir que o gerente tenha controle total do seu estoque, para que possa conferiar a confiabilidade de seu estoque.
 
 
 ### Justificativa   
