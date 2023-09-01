@@ -106,41 +106,87 @@ Grande parte dos usuários são pequenas empresas, estabelecimentos e pessoas co
 	[POR QUE] 
 </td>
 </tr>
-	
+
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Jorge Paulo</td>
+<td>Entender o que possuo em Estoque.</td>
+<td>Para sempre possuir produtos que mais vendem.</td>
+</tr>
+
+ 
+
+<tr>
+<td>Jorge Paulo</td>
+<td>Melhorar eficiência operacional aumentando a produtividade.</td>
+<td>Acelerar o fluxo de vendas</td>
+</tr>
+
+ 
+
+<tr>
+<td>Ayrton Santana</td>
+<td>Atender à demandas exigentes.</td>
+<td>Para fazer vendas em valores mais ambiciosos</td>
+</tr>
+
+ 
+
+<tr>
+<td>Ayrton Santana</td>
+<td>Satisfazer clientes com celeridade.</td>
+<td>Aumentar a confiança dos clientes.</td>
+</tr>
+
+ 
+
+<tr>
+<td>Carlos Massa</td>
+<td>Evitar rupturas de Estoque</td>
+<td>Com a ideia de sempre possuir os produtos corretos</td>
+</tr>
+
+ 
+
+<tr>
+<td>Carlos Massa</td>
+<td>Cumprir regulamentações de segurança.</td>
+<td>A fim de validar se todos os produtos estão dentro  de suas validades</td>
+</tr>
+ 
+<tr>
+<td>Ricardo melo</td>
+<td>Redução de custos</td>
+<td>diminuir os gastos totais</td>
 </tr>
 	
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Glauber maciel </td>
+<td>melhor atendimento</td>
+<td>Melhorar os atendimentos da empresa</td>
 </tr>
 	
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td> Luciano Hulk</td>
+<td>Gerenciar equipamentos</td>
+<td>Gerir os equipamentos para manutenção</td>
 </tr>
 	
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Ricardo Melo</td>
+<td>Reduzir riscos</td>
+<td>Para evitar perdas e extravios</td>
 </tr>
 	
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Glauber Maciel</td>
+<td>Gestão de fornecimento</td>
+<td>Gerir os produtos de fornecedores</td>
 </tr>
 	
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>Luciano Hulk</td>
+<td>Gerenciar saldos</td>
+<td>Gerir os saldos da equipe</td>
 </tr>
 </table>
 
