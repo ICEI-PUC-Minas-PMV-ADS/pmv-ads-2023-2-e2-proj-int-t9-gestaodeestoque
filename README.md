@@ -100,20 +100,55 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 ### Personas
 
-
-<div>
-<img align="left" src="/IMGS/persona1.png" width="480px"  />
-</div>
-
-</br>
-
-<img align="left" src= "/IMGS/persona2.png" width="480px"/>
-
-
-</br>
-</br>
-<div align="center"  >
-</div>
+<table>
+<tr>
+<td>Eu como …</br> 
+	[PERSONA] 
+</td>
+<td>… quero/desejo … </br>
+	[O QUE] 
+</td>
+<td>… para .... </br>
+	[POR QUE] 
+</td>
+</tr>
+	
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+	
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+	
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+	
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+	
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+	
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ### Requisitos e Restrições.
 #### Requisitos Funcionais 
