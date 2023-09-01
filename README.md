@@ -87,6 +87,12 @@ Grande parte dos usuários são pequenas empresas, estabelecimentos e pessoas co
 &nbsp;&nbsp;  O objetivo fundamental de um controle de estoque é garantir que uma organização mantenha a quantidade certa de produtos ou materiais disponíveis no momento certo, de forma a atender às demandas dos clientes, minimizando custos e maximizando a eficiência operacional.
 
 ### Personas
+![Persona1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/persona1.png)
+![Persona2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/persona2.png)
+![Persona3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/persona3.png)
+![Persona4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/persona4.png)
+![Persona5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/persona5.png)
+![Persona6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/persona6.png)
 
 <table>
 <tr>
