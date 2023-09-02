@@ -329,9 +329,11 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 ## Diagrama de Casos de Uso
 
 ### Caso de uso.
-Usuário cadastra um fornecedor, Cadastra um produto , e inclui uma movimentação utilizando o fornecedor e o produto cadastrado. Vendedor verifique o saldo em estoque e caso este produto possua saldo realiza uma venda.Gestor Verifica que os produtos possuem uma avaria, e ordena o cancelamento das movimentações.
+Usuário administrador é o único capaz de  cadastrar usuário e executar todos os outros processos do sistema.
+Usuário Gestor é capaz de visualizar o estoque visando controle da empresa e cancelar movimentações que não estão conddizentes com as notas.
+Usuário Estoquista é o usuário chave do sistema, este é capaz de criar os produtos e fornecedores que serão utilizados e suas respectivas movimentações de entrada e saída.
 	
-![Figura 3 – Diagrama de Caso de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/gestaoDeEstoque/blob/main/img/caso_de_uso.png)
+![Figura 3 – Diagrama de Caso de Uso]()
 
 
 
