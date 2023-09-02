@@ -330,7 +330,6 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 
 ### Caso de uso.
 Usuário cadastra um fornecedor, Cadastra um produto , e inclui uma movimentação utilizando o fornecedor e o produto cadastrado. Vendedor verifique o saldo em estoque e caso este produto possua saldo realiza uma venda.Gestor Verifica que os produtos possuem uma avaria, e ordena o cancelamento das movimentações.
-Figura 2 – principais vilões das dívidas 
 	
 ![Figura 3 – Diagrama de Caso de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/gestaoDeEstoque/blob/main/img/caso_de_uso.png)
 
