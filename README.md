@@ -330,7 +330,7 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 
 ### Caso de uso.
 Usuário administrador é o único capaz de  cadastrar usuário e executar todos os outros processos do sistema.
-Usuário Gestor é capaz de visualizar o estoque visando controle da empresa e cancelar movimentações que não estão conddizentes com as notas.
+Usuário Gestor é capaz de visualizar o estoque visando controle da empresa e cancelar movimentações que não estão condizentes com as notas.
 Usuário Estoquista é o usuário chave do sistema, este é capaz de criar os produtos e fornecedores que serão utilizados e suas respectivas movimentações de entrada e saída.
 	
 ![Figura 3 – Diagrama de Caso de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/diagramaDeCasoDeUso.jpg)
