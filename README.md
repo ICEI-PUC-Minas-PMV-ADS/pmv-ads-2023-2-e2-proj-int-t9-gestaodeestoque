@@ -352,7 +352,7 @@ Estão apresentadas na tabela a seguir, as plataformas utilizadas para o desenvo
 <tr>
 	<td>Repositório de código fonte &nbsp; </td>
 	<td>Github &nbsp; </td>
-	<td>github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque &nbsp; </td>
+	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque &nbsp; </td>
 </tr>
 
 <tr>
@@ -364,7 +364,7 @@ Estão apresentadas na tabela a seguir, as plataformas utilizadas para o desenvo
 <tr>
 	<td>Projeto de Interface e Wireframes &nbsp; </td>
 	<td>Figma </td>
-	<td>Figma</td>
+	<td></td>
 </tr>
 
 <tr>
