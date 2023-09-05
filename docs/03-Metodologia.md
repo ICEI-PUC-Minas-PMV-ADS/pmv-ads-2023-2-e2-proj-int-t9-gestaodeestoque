@@ -1,77 +1,98 @@
 
-# Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+## <a name="metodologia">Metodologia</a>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla as definições feitas pela equipe a fim de demonstrar as ferramentas utilizadas para a organização das tarefas de execução do projeto e também na manutenção de códigos.
 
-## Controle de Versão
+### Relação de Ambientes de Trabalho
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Estão apresentadas na tabela a seguir, as plataformas utilizadas para o desenvolvimento do projeto e a relação dessas ferramentas com o produto.
 
-O projeto segue a seguinte convenção para o nome de branches:
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Ambiente &nbsp; </td>
+	<td>&nbsp; Plataforma &nbsp; </td>
+	<td>Link de Acesso &nbsp; </td>
+</tr>
+<tr>
+	<td>Repositório de código fonte &nbsp; </td>
+	<td>Github &nbsp; </td>
+	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque &nbsp; </td>
+</tr>
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+<tr>
+	<td>Documentos do projeto &nbsp; </td>
+	<td>GitHub &nbsp; </td>
+	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/README.md &nbsp; </td>
+</tr>
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+<tr>
+	<td>Projeto de Interface e Wireframes &nbsp; </td>
+	<td>Figma </td>
+	<td></td>
+</tr>
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+<tr>
+	<td>Gerenciamento do Projeto &nbsp; </td>
+	<td>GitHub &nbsp; </td>
+	<td>https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/337/views/1 &nbsp; </td>
+</tr>
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+</table>
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+### Gerenciamento de projeto
 
-## Gerenciamento de Projeto
+Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após análise do contexto, a equipe optou por utilizar o Scrum como estrutura ágil. A equipe está organizada da seguinte maneira: 
 
-### Divisão de Papéis
+* Product Owner: Pedro Henrique Filgueiras Couto 
 
-Apresente a divisão de papéis entre os membros do grupo.
+* Scrum Master: Pedro Henrique Filgueiras Couto
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+* Equipe de Desenvolvimento 
 
-### Processo
+	* Gabriel Augusto Mendes Do Espirito Santo
+	* Pedro Henrique Filgueiras Couto
+	* Marlon Albert Rodrigues Dias
+	* Caio Santos Celestino da Costa
+	* Peterson Alves Gervazio
+	* Wilian Pereira de Aquino Junior.
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+* Equipe de Design 
+
+	* Wilian Pereira de Aquino Junior.
+
+	* Peterson Alves Gervazio
+
+	* Caio Santos Celestino da Costa
+
+  	* Marlon Albert Rodrigues Dias
+
+A plataforma Github Project está sendo utilizada pela equipe para organização e distribuição das tarefas do projeto, sendo as atividades segmentadas pelas listas a seguir: 
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+* **Backlog**: contém a lista de todas as macros tarefas previstas para a entrega de todo o projeto e, a cada sprint, serão elencadas para a lista “To do” conforme prioridades. Se necessário, podem ser descontinuadas. 
 
-### Ferramentas
+* **A Realizar**: a lista apresenta todas as tarefas elencadas para serem trabalhadas durante a sprint. 
 
-As ferramentas empregadas no projeto são:
+* **In Progress**: apresenta as tarefas que já foram iniciadas pelos responsáveis atribuídos. 
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+* **Done**: assim que a tarefa é finalizada ela é apresentada nesta lista. Significa que não haverá mais a necessidade de atuação. 
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+O quadro kanban do GitHub Project utilizado pela equipe está disponível através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/548/views/1 e atualmente, se encontra neste estado, conforme Figura Kanban.  
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+<div align="center">
+
+Figura X - Tela do kanban utilizada pela equipe 
+	
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Kanban.jpg)
+
+</div>
+
+
+
+# Código
+
+<li><a href="src/README.md"> Código Fonte</a></li>
+
+# Apresentação
+
+<li><a href="presentation/README.md"> Apresentação da solução</a></li>
