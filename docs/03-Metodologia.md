@@ -89,10 +89,3 @@ Figura X - Tela do kanban utilizada pela equipe
 
 
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
