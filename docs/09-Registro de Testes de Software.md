@@ -82,14 +82,84 @@ RF-004 -
 
 
 
+<table>
+<tr>
+<td>Caso de teste
+	
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td>Requisitos </br>
+  Associados</td>
+<td>RF-001 -  </br>
+RF-002 -  </br>
+RF-003 -  </br>
+RF-004 -  
+  
+</td>
+</tr>
+
+<tr>
+<td>Objetivo do Teste</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Passos</td>
+<td>1 - </br>
+2 - </br>
+3 - </br>
+</tr>
+
+<tr>
+<td>Critérios de êxito</td>
+<td></td>
+</tr>
 
 
 
 
 
 
+<table>
+<tr>
+<td>Caso de teste
+	
+</td>
+<td>
+</td>
+</tr>
 
+<tr>
+<td>Requisitos </br>
+  Associados</td>
+<td>RF-001 -  </br>
+RF-002 -  </br>
+RF-003 -  </br>
+RF-004 -  
+  
+</td>
+</tr>
 
+<tr>
+<td>Objetivo do Teste</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Passos</td>
+<td>1 - </br>
+2 - </br>
+3 - </br>
+</tr>
+
+<tr>
+<td>Critérios de êxito</td>
+<td></td>
+</tr>
 
 
 
