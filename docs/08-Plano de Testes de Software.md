@@ -45,36 +45,39 @@ RF-004 - A aplicação deverá permitir a inclusão de outros participantes.
 <td>Caso de teste
 	
 </td>
-<td>
+<td>CT-02 - Funcionamento da interface do usuário sem estar logado
 </td>
 </tr>
 
 <tr>
 <td>Requisitos </br>
   Associados</td>
-<td>RF-001 -  </br>
-RF-002 -  </br>
-RF-003 -  </br>
-RF-004 -  
+<td>RF-001 - A aplicação não deverá permitir a visualização do usuário antes de estar logado. </br>
+RF-002 - A aplicação deverá apresentar as opções de cadastro e login. </br>
+RF-003 - O usuário que não possuir conta deverá conseguir realizar o cadastro na aplicação.  </br>
+RF-004 - O usuário que já possuir cadastro deverá logar na aplicação.
   
 </td>
 </tr>
 
 <tr>
 <td>Objetivo do Teste</td>
-<td></td>
+<td>Verificar se o usuário não logado terá acesso as ferramentas de login e de cadastro.</td>
 </tr>
 
 <tr>
 <td>Passos</td>
-<td>1 - </br>
-2 - </br>
-3 - </br>
+<td>1 - Acessar o navegador.</br>
+2 - Deverá acessar a URL do site.</br>
+3 - Deverá aparecer a página principal da aplicação. </br>
+4 - Deverá escolher uma das opções (cadastro ou login). </br>
+5 - Deverá realizar o cadastro ou login. </br>
+6 - Deverá ser logado com êxito
 </tr>
 
 <tr>
 <td>Critérios de êxito</td>
-<td></td>
+<td>Após o acesso ao site o usuário deverá ter acesso as opções de cadastro e login. Após a escolha deverá ser redirecionado a página respectiva da escolha. Após o preenchimento deverá ser encaminhado a página principal do site</td>
 </tr>
 
 
