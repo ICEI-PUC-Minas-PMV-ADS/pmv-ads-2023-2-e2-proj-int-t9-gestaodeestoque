@@ -90,36 +90,38 @@ RF-004 - O usuário que já possuir cadastro deverá logar na aplicação.
 <td>Caso de teste
 	
 </td>
-<td>CT-03 - Funcionamento da interface do usuário apósl estar logado
+<td>CT-03 - Funcionamento da interface do usuário após estar logado
 </td>
 </tr>
 
 <tr>
 <td>Requisitos </br>
   Associados</td>
-<td>RF-001 -  </br>
-RF-002 -  </br>
-RF-003 -  </br>
-RF-004 -  
+<td>RF-001 - O sistema deverá permitir a alteração dos produtos. </br>
+RF-002 - O sistema deverá permitir a consulta dos saldos de produtos. </br>
+RF-003 - O sistema deverá permitir a geração de relatórios. </br>
+RF-004 -  O sistema deverá permitir o arredondamento de valores.
   
 </td>
 </tr>
 
 <tr>
 <td>Objetivo do Teste</td>
-<td></td>
+<td>Verificar se todas as funções estarão disponiveis para o usuário </td>
 </tr>
 
 <tr>
 <td>Passos</td>
-<td>1 - </br>
-2 - </br>
-3 - </br>
+<td>1 - Verificar na barra de menu a função que desejar.</br>
+2 - Clicar na opção desejada.</br>
+3 - Realizar a função descrita.</br>
+4 - Verificar os dados. </br>
+5 - Salvar as auterações.
 </tr>
 
 <tr>
 <td>Critérios de êxito</td>
-<td></td>
+<td>O usuário deverá conseguir utilizar todas as funções incluindo adicionar, editar e excluir os itens</td>
 </tr>
 
 
