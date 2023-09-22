@@ -90,7 +90,7 @@ RF-004 - O usuário que já possuir cadastro deverá logar na aplicação.
 <td>Caso de teste
 	
 </td>
-<td>
+<td>CT-03 - Funcionamento da interface do usuário apósl estar logado
 </td>
 </tr>
 
@@ -124,42 +124,3 @@ RF-004 -
 
 
 
-
-
-
-<table>
-<tr>
-<td>Caso de teste
-	
-</td>
-<td>
-</td>
-</tr>
-
-<tr>
-<td>Requisitos </br>
-  Associados</td>
-<td>RF-001 -  </br>
-RF-002 -  </br>
-RF-003 -  </br>
-RF-004 -  
-  
-</td>
-</tr>
-
-<tr>
-<td>Objetivo do Teste</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Passos</td>
-<td>1 - </br>
-2 - </br>
-3 - </br>
-</tr>
-
-<tr>
-<td>Critérios de êxito</td>
-<td></td>
-</tr>
