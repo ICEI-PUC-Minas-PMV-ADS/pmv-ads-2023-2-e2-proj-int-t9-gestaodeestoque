@@ -43,7 +43,18 @@ RF-008 - O Sistema deve possuir um Cadastro de usuários.</br>
 
 <tr>
 <td>Critérios de êxito</td>
-<td>Cada ação realizada pelo usuário deve ter tempo de resposta de no máximo 15s. Estas ações incluem: </td>
+<td>Cada ação realizada pelo usuário deve ter tempo de resposta de no máximo 15s. Estas ações incluem: 
+<ul>
+<li>Navegar utilizando o menu</li>
+<li>Cadastrar/modificar/excluir fornecedores</li>
+<li>Cadastrar/modificar/excluir produtos</li>
+<li>Cadastrar movimentações</li>
+<li>Consultar saldos</li>
+<li>Gerar relatório de entradas e saídas</li>
+<li>Cadastrar Usuário</li>
+</ul>
+</td>
+</tr>
 
 
 
