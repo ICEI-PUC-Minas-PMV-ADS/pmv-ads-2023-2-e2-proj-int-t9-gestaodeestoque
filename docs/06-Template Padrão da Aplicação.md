@@ -1,13 +1,13 @@
 # Template Padrão do Site
 
-## Menu Principal
+## Fornecedores
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Menu%20principal%20print.png">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Fornecedores.png">
 
-## Cadastro de Produto
+## Lista de Produtos
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Cadastro%20de%20Produto%20print.png">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Lista%20de%20Produtos.png">
 
-## Cadastro de Fornecedor
+## Relatório
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Cadastro%20Fornecedor%20print.png">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Relat%C3%B3rio.jpeg">
