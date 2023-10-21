@@ -17,7 +17,7 @@ O diagrama a seguir mostra o fluxo da interação do usuário com o sistema.
 ![Menu principal](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/menu_principal.png)
 
 ### Cadastro fornecedor
-![Cadastro fornecedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/cadastro_de_fornecedor.png)
+![Cadastro fornecedor](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/Cadastrodefornecedor.png)
 
 ### Cadastro produto
 ![Cadastro produto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/blob/main/IMGS/cadastro_de_produto.png)
