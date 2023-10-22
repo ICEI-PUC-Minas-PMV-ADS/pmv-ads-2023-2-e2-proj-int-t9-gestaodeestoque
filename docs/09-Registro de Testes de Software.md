@@ -38,3 +38,10 @@
 	</td>
 </tr>
 </table>
+
+## Vídeo
+
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-gestaodeestoque/assets/127263189/28a362ef-28a0-4827-9fb9-91815354e372
+
