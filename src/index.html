@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Requisição GET com Tabela</title>
+</head>
+<body>
+    <button id="meuBotao">Fazer Requisição GET</button>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Código</th>
+                <th>Nome</th>
+                <th>Tipo</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody id="tabela-corpo">
+            <!-- Os dados da tabela serão adicionados aqui -->
+        </tbody>
+    </table>
+
+    <script>
+        // Função para fazer a requisição GET e preencher a tabela
+        function fazerRequisicaoGET() {
+            const url = "https://localhost:7085/Produto";
+
+            fetch(url)
+                .then((response) => {
+                    if (!response.ok) {
+                        throw new Error(`Erro HTTP! Status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then((data) => {
+                    const tabelaCorpo = document.getElementById("tabela-corpo");
+
+                    // Limpa o conteúdo existente da tabela
+                    tabelaCorpo.innerHTML = "";
+
+                    // Itera sobre os dados e cria as linhas da tabela
+                    data.forEach((item) => {
+                        const newRow = tabelaCorpo.insertRow();
+                        newRow.innerHTML = `
+                            <td>${item.id}</td>
+                            <td>${item.codigo}</td>
+                            <td>${item.nome}</td>
+                            <td>${item.tipo}</td>
+                            <td><button class="excluir" data-id="${item.id}">Excluir</button></td>
+                        `;
+                    });
+                    tabelaCorpo.querySelectorAll(".excluir").forEach((button)=>{
+                        button.addEventListener("click",(event)=>{
+                        const idParaExcluir = event.target.getAttribute("data-id"); 
+                        deleteItem(idParaExcluir)   
+                        })
+                    })
+                
+                })
+                .catch((error) => {
+                    console.error("Ocorreu um erro:", error);
+                });
+                
+        }
+
+        // Adiciona um ouvinte de evento de clique ao botão
+        const meuBotao = document.getElementById("meuBotao");
+        meuBotao.addEventListener("click", fazerRequisicaoGET);
+
+        //Função de Delete
+        function deleteItem(id){
+        const urlDeletar = `https://localhost:7085/Produto/${id}`
+        fetch(urlDeletar,{
+            method: "DELETE",
+        })
+            .then((response) =>{
+                if (!response.ok) {
+                 throw new Error(`Erro HTTP! Status: ${response.status}`);
+                }
+                return response.json
+            } )
+            .then(()=>{
+                fazerRequisicaoGET();
+            })
+            .catch((error)=>{
+                console.error('Erro ao deletar',error)
+            })
+        }
+    </script>
+</body>
+</html>
